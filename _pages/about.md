@@ -1,18 +1,17 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "papripa"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I‘m a second year graduate in CSNLab from KAIST(advised by John Kim). My current research interest is the biases caused by social label using(especially MBTIs).
+I‘m a second year graduate in [CSNLab](https://icn.kaist.ac.kr/) from [KAIST](https://www.kaist.ac.kr/en/)
 
+I'm advised by [John Kim](https://icn.kaist.ac.kr/~jjk12/index.html). 
 
-About me
-======
-
+My current research interest is HCI, with a focus on the biases caused by social label using(especially MBTIs).
 
 
 
