@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "papripa"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
@@ -15,6 +15,6 @@ My current research interest is HCI, with a focus on the biases caused by social
 
 
 
-For more info
+For paper
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+Hope there will be paper in the future:)
