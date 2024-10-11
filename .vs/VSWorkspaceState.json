@@ -1,7 +1,10 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\_portfolio",
+    "\\_posts",
+    "\\_publications"
   ],
-  "SelectedNode": "\\D:\\MyWeb",
+  "SelectedNode": "\\_publications",
   "PreviewInSolutionExplorer": false
 }
